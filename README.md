@@ -104,7 +104,7 @@ print(y_prednew)
 ![OUTPUT](<Screenshot 2024-04-23 084413.png>)
 ![OUTPUT](<Screenshot 2024-04-23 084428.png>)
 ![OUTPUT](<Screenshot 2024-04-23 084444.png>)
-![OUTPUR](<Screenshot 2024-04-23 084456.png>)
+![OUTPUT](<Screenshot 2024-04-23 091654-1.png>)
 
 ## Result:
 Thus the program to implement the the Logistic Regression Using Gradient Descent is written and verified using python programming.
